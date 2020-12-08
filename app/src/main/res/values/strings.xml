@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">My Developer Portfolio</string>
+    <string name="about_me">Saya sangat suka saat menyelesaikan sebuah masalah maupun proses untuk
+        menyelesaikannya karena saya merasa seperti sedang bermain. Rekayasa Perangkat Lunak bagaikan
+        teka-teki tanpa akhir yang dengan penuh semangat saya pecahkan. Berbagai hal yang menarik
+        dan membuat saya tidak pernah selesai bermain dengannya, saat itulah saya mulai menekuni
+        dunia pemrograman. Meskipun saya kesulitan untuk menguasai bahasa asing, namun berbeda
+        dengan bahasa pemrograman yang dibutuhkan untuk Rekayasa Perangkat Lunak, saya bisa dengan
+        mudah mengerti apa maksud dan tujuan dari setiap bahasanya.\n\n
+        Saya juga sangat suka sesuatu yang indah, di dunia pemrograman saya belajar membangun
+        aplikasi-aplikasi yang seindah mungkin yang bisa saya kembangkan dari imajinasi dan
+        lingkungan saya. Saya bisa bermain sekaligus berkarya di dunia ini.\n\n
+        Semakin dalam saya menyelam ke dunia pemrograman semakin banyak hal baru yang saya dapatkan.
+        Bagi saya dunia komputer dan teknologi adalah hal yang sangat menarik, di sana terdapat
+        banyak hal yang saling bertentangan, \“ini mudah, saya bisa mengerjakannya\” atau \“ini
+        terlalu sulit untuk sekarang\” atau \“ini bukan hal yang bisa saya mengerti\”. Saya tidak
+        akan pernah kehabisan semangat untuk mempelajari hal-hal baru di dunia pemrograman.\n\n
+        Sejauh ini saya mempelajari dan meminati Kotlin, Swift, Java, Python, Git/Github, SQL
+        dan metode pengorganisasian kode Model View ViewModel (MVVM), Model View Presenter (MVP),
+        Model View Controller (MVC).</string>
+    <string name="logos">Logos</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="get_in_touch">Get In Touch</string>
+    <string name="android_kotlin_developer">Android Kotlin Developer</string>
+    <string name="yusril_nurhadi_alhabib_sulaeman">Yusril Nurhadi Alhabib Sulaeman</string>
+
+    <array name="contact_logo_image">
+        <item>@drawable/gmail</item>
+        <item>@drawable/linkedin</item>
+        <item>@drawable/github</item>
+        <item>@drawable/instagram</item>
+        <item>@drawable/whatsapp_text</item>
+        <item>@drawable/twitter</item>
+        <item>@drawable/facebook</item>
+    </array>
+
+    <array name="contact_data">
+        <item>yusrilnurhadi63@gmail.com</item>
+        <item>Yusril Nurhadi AS</item>
+        <item>Yoenas</item>
+        <item>Yusril Nurhadi</item>
+        <item>\+6281224347817</item>
+        <item>\@YusrilNurhadi</item>
+        <item>Yusril Nurhadi</item>
+    </array>
+
+    <array name="works_name">
+        <item>ToDo List App</item>
+        <item>WhatsApp Clone</item>
+        <item>Online Quiz App</item>
+        <item>Maps</item>
+        <item>YoutubeAPI</item>
+        <item>Dzikir Pagi-Petang</item>
+        <item>Luas dan Keliling Bangun Datar</item>
+        <item>Find My Age</item>
+        <item>Paper-Rock-Scissor</item>
+        <item>Portal Berita</item>
+        <item>Covid19-Info</item>
+        <item>Perkembangan Kognitif</item>
+        <item>Simple Calculator</item>
+    </array>
+
+    <array name="works_logo">
+        <item>@drawable/android_img</item>
+        <item>@drawable/android_img</item>
+        <item>@drawable/android_img</item>
+        <item>@drawable/apple_logo</item>
+        <item>@drawable/android_img</item>
+        <item>@drawable/apple_logo</item>
+        <item>@drawable/apple_logo</item>
+        <item>@drawable/apple_logo</item>
+        <item>@drawable/machine_learning</item>
+        <item>@drawable/apple_logo</item>
+        <item>@drawable/android_img</item>
+        <item>@drawable/android_img</item>
+        <item>@drawable/android_img</item>
+    </array>
+
+    <array name="skills_name">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>Swift</item>
+        <item>SQL</item>
+        <item>Python</item>
+        <item>Git/Github</item>
+        <item>MySQL</item>
+    </array>
+
+    <array name="skills_logo">
+        <item>@drawable/kotlin</item>
+        <item>@drawable/java</item>
+        <item>@drawable/swift_logo</item>
+        <item>@drawable/sql</item>
+        <item>@drawable/python_powered</item>
+        <item>@drawable/github</item>
+        <item>@drawable/mysql</item>
+    </array>
+
+</resources>
